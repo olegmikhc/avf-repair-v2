@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olegmikhc.github.io/avf-repair-v2/sitemap.xml
